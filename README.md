@@ -22,6 +22,12 @@ This app comes with the following feature
  - ListView
  - GridView
 
+# Responsive Design
+![Responsive ](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/42d12812-0650-4768-96f0-007bbff1d037)
+
+
+
+
 
 
 
