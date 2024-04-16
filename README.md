@@ -1,5 +1,5 @@
 # axisfinance
-A mobile aplication to manage your daily finance.
+A mobile application to manage your daily finance.
 
 # Feature 
 
@@ -10,7 +10,11 @@ This app comes with the following feature
  - Displaying Transactions with its corresponding pictures
  - Displaying Transactions with its date
  - Navigation bar for navigating between pages
- - 
+ - Adding feature
+ - Adding Transactions with the following data
+   -
+
+
 
 
 
