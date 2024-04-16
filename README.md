@@ -14,6 +14,18 @@ This app comes with the following feature
  - Displaying the statics of transaction in diferent range of (Day, Week, Month, Year)
  - Navigation bar for navigating between pages
 
+# Used flutter features
+ - Container
+ - Row 
+ - Column
+ - Stack 
+ - ListView
+ - GridView
+
+
+
+
+
 
 
 
