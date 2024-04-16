@@ -9,10 +9,15 @@ This app comes with the following feature
  - Dispalying Transactions
  - Displaying Transactions with its corresponding pictures
  - Displaying Transactions with its date
- - Navigation bar for navigating between pages
  - Adding feature
- - Adding Transactions with the following data
-   -
+ - Adding Transactions with the following data (Name, Explaination, Amount, date, Condition)
+ - Displaying the statics of transaction in diferent range of (Day, Week, Month, Year)
+ - Navigation bar for navigating between pages
+
+
+
+
+   
 
 
 
