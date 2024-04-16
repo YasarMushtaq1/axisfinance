@@ -1,6 +1,23 @@
 # axisfinance
+A mobile aplication to manage your daily finance.
 
-A new Flutter project.
+# Feature 
+
+This app comes with the following feature
+
+ - Managing And displaying Income and Expand 
+ - Dispalying Transactions
+ - Displaying Transactions with its corresponding pictures
+ - Displaying Transactions with its date
+ - Navigation bar for navigating between pages
+ - 
+
+
+
+
+
+
+
 
 # Figma
 
