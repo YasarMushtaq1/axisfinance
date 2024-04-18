@@ -1,7 +1,7 @@
 # axisfinance
 A mobile application to manage your daily finance.
 
-# Feature 
+# Features
 
 This app comes with the following feature
 
