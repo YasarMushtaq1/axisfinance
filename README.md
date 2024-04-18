@@ -11,7 +11,7 @@ This app comes with the following feature
  - Displaying Transactions with its date
  - Adding feature
  - Adding Transactions with the following data (Name, Explaination, Amount, date, Condition)
- - Displaying the statics of transaction in diferent range of (Day, Week, Month, Year)
+ - Displaying the statics of transaction in Differen ranges of time (Day, Week, Month, Year)
  - Navigation bar for navigating between pages
 
 # Used flutter features
@@ -66,4 +66,15 @@ This app comes with the following feature
 # Figma
 
 ![Figma](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/8a33bf58-a9ec-4e8c-9b6e-50e70ed4ad01)
+
+# How to run
+## To run this application 
+- **First** clone it usnig terminal " git clone https://github.com/YasarMushtaq1/axisfinance/ " 
+- **Second** solve the dependencies " Flutter pub get"
+- **Third** connect to emulator then run this " flutter run "
+
+
+
+
+
 
