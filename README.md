@@ -29,7 +29,7 @@ This app comes with the following feature
 - **Bottom Navigation Bar**: Navigation options.
 
 ## Adding Page
-- **Page Title**: Alongside attachment icon.
+- **Page Title**: (Adding) with attachment icon.
 - **Adding Card**: 
   - Details to input:
     - Name
