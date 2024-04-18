@@ -22,27 +22,17 @@ This app comes with the following feature
  - SliverList
  - GridView
 
+# WidgetsImplementation 
+
+
+
+# WireFrame
+![wirframe](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/7e7c6b63-253f-49cd-a47d-afa955a9dccb)
+
+
+
 # Responsive Design
 ![Responsive ](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/42d12812-0650-4768-96f0-007bbff1d037)
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
 
 
 
