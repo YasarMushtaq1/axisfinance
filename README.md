@@ -19,7 +19,7 @@ This app comes with the following feature
  - Row 
  - Column
  - Stack 
- - ListView
+ - SliverList
  - GridView
 
 # Responsive Design
