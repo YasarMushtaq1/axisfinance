@@ -56,16 +56,16 @@ This app comes with the following feature
 # WireFrame
 ![wirframe](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/7e7c6b63-253f-49cd-a47d-afa955a9dccb)
 
+# Figma
 
+![Figma](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/8a33bf58-a9ec-4e8c-9b6e-50e70ed4ad01)
 
 # Responsive Design
 ![Responsive ](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/42d12812-0650-4768-96f0-007bbff1d037)
 
 
 
-# Figma
 
-![Figma](https://github.com/YasarMushtaq1/axisfinance/assets/124120950/8a33bf58-a9ec-4e8c-9b6e-50e70ed4ad01)
 
 # How to run
 ## To run this application 
