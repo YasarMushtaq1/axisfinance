@@ -21,8 +21,35 @@ This app comes with the following feature
  - Stack 
  - SliverList
  - GridView
+# Page Descriptions
+## Home Page
+- **Top Bar**: Application name with app responsibility and home icon indicating it's the home page.
+- **Card Shape**: Displaying card balance, income, and expenditure amount.
+- **Body**: List of transactions.
+- **Bottom Navigation Bar**: Navigation options.
 
-# WidgetsImplementation 
+## Adding Page
+- **Page Title**: Alongside attachment icon.
+- **Adding Card**: 
+  - Details to input:
+    - Name
+    - Explain
+    - Amount
+    - How
+    - Date
+- **Save Button**: To save the input.
+- **Bottom Navigation Bar**: Navigation options.
+
+## Statistics Page
+- **Page Title**: Title indicating statistics.
+- **Statistics Ranges Options**: 
+  - Day
+  - Week
+  - Month
+  - Year
+- **List of Transactions**: According to the selected range of statistics.
+- **Bottom Navigation Bar**: Navigation options.
+ 
 
 
 
